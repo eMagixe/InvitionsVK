@@ -1,0 +1,24 @@
+# dependencies
+node_modules
+
+# logs
+npm-debug.log
+
+# Nuxt build
+.nuxt
+
+# Nuxt generate
+dist
+
+# Environments
+.env
+
+# Submodules
+.directory
+
+# WebStorm
+.idea
+
+.DS_Store
+
+.env.example
